@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultiRowsRadioGroupDemo.iml" filepath="$PROJECT_DIR$/MultiRowsRadioGroupDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multirowsradiogroup/multirowsradiogroup.iml" filepath="$PROJECT_DIR$/multirowsradiogroup/multirowsradiogroup.iml" />
+    </modules>
+  </component>
+</project>
+
