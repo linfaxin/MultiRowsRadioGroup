@@ -3,7 +3,7 @@ MultiRowsRadioGroup
 
 Android library to put your radio buttons in multiple rows, or any other layout
 
- ![image](https://github.com/linfaxin/MultiRowsRadioGroup/blob/master/demo/demo.png)
+ ![image](https://github.com/linfaxin/MultiRowsRadioGroup/blob/master/demo/demo.gif)
  
 Usage
 -----
